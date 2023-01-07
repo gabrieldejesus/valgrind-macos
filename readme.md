@@ -24,6 +24,8 @@ Then run the command in the terminal in the same folder where you downloaded the
 brew install --HEAD -s valgrind.rb
 ```
 
+---
+
 brew will install valgrind and to use it just run
 
 ```
